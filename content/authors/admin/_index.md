@@ -25,7 +25,7 @@ organizations:
     url: https://www.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include physics-based simulations, geometry processing and deformable models.
 
 # Interests to show in About widget
 interests:
